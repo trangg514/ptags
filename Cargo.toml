@@ -3,3 +3,4 @@ name = "ptags"
 version = "0.1.0"
 edition = "2021"
 description = "A parallel universal-ctags wrapper for git repository"
+# guard against empty input
