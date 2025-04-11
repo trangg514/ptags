@@ -3,3 +3,4 @@ dist/
 .venv/
 node_modules/
 build/
+tmp/
